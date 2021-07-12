@@ -4,3 +4,4 @@
 
 #add entry for feature-A
 -fix-B
+-feature-C
